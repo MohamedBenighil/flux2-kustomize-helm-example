@@ -12,3 +12,6 @@
 *.out
 
 bin/
+
+.devcontainer/
+.1.config-exercise/
